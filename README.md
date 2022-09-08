@@ -9,7 +9,7 @@ One Admin panel
  Technologies : 
  Laravel + Bootstrap + Javascript + Mysql 
 
-check out : http://najem-tours.com/
+Check out : http://najem-tours.com/
 
 ![alt text](https://github.com/LeDev007/Najem-tours/blob/main/admin%20panel.png)
 
